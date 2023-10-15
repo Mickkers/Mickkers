@@ -14,7 +14,7 @@ I'm an undergraduate student pursuing a degree in Computer Science with a focus 
 
 ## Past Projects
 
-| ![Othello Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/Othello%20Demo.gif) | ![Space Invaders Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/SpaceInvaders%20Demo.gif) | 
+| ![Othello Demo]() | ![Space Invaders Demo]() | 
 |:--:|:--:| 
 | *Othello* | *Space Invaders* |
 
