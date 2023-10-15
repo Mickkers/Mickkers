@@ -4,7 +4,7 @@
 
 I'm an undergraduate student pursuing a degree in Computer Science with a focus on Game Development. Currently I am focusing on programming in Unity whilst also learning various other tools and languages used in game development.
 
-## Skills: 
+## Skills & Experience: 
 - 🎮 C# Unity Game Development
 - 📱 Java Mobile App Development
 - 🖥️ HTML, JS, CSS Web Development
