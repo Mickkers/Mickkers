@@ -14,11 +14,10 @@ I'm an undergraduate student pursuing a degree in Computer Science with a focus 
 
 ## Past Projects
 
-<figure>
-  <img src='https://raw.githubusercontent.com/Mickkers/Mickkers/main/Othello%20Demo.gif' alt='Othello Demo' height='350'>
-  <figcaption>Othello</figcaption>
-</figure>
-<figure>
-  <img src='https://raw.githubusercontent.com/Mickkers/Mickkers/main/SpaceInvaders%20Demo.gif' alt='Space Invaders Demo' height='350'>
-  <figcaption>Space Invaders</figcaption>
-</figure>
+| ![Othello Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/Othello%20Demo.gif) | ![Space Invaders Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/SpaceInvaders%20Demo.gif) | 
+|:--:|:--:| 
+| *Othello* | *Space Invaders* |
+
+| ![Platformer Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/Platformer%20Demo.gif) | 
+|:--:| 
+| *Simple Platformer* |
