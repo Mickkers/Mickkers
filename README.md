@@ -14,10 +14,10 @@ I'm an undergraduate student pursuing a degree in Computer Science with a focus 
 
 ## Past Projects
 
-| ![Othello Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/OthelloDemo.gif) | ![Space Invaders Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/SpaceInvadersDemo.gif) | 
+| [![Othello Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/OthelloDemo.gif)](https://mickkers.itch.io/othello) | [![Space Invaders Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/SpaceInvadersDemo.gif)](https://mickkers.itch.io/space-invaders) | 
 |:--:|:--:| 
 | *Othello* | *Space Invaders* |
 
-| ![Platformer Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/PlatformerDemo.gif) | 
+| [![Platformer Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/PlatformerDemo.gif)](https://mickkers.itch.io/platformer-demo) | 
 |:--:| 
 | *Simple Platformer* |
