@@ -18,6 +18,6 @@ I'm an undergraduate student pursuing a degree in Computer Science with a focus 
 |:--:|:--:| 
 | *Othello* | *Space Invaders* |
 
-| [![Platformer Demo](https://raw.githubusercontent.com/Mickkers/Mickkers/main/PlatformerDemo.gif)](https://mickkers.itch.io/platformer-demo) | 
+| [![Froggy Jump](https://raw.githubusercontent.com/Mickkers/Mickkers/main/Froggy%20Jump.gif)](https://mickkers.itch.io/froggy-jump) | 
 |:--:| 
-| *Simple Platformer* |
+| *Froggy Jump* |
