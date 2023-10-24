@@ -1,4 +1,3 @@
-# Hi there 👋, my name is Michael
 ![Game Developer](https://raw.githubusercontent.com/Mickkers/Mickkers/main/github-header-image.png)
 
 I'm an undergraduate student pursuing a degree in Computer Science with a focus on Game Development. Currently I am focusing on programming in Unity whilst also learning various other tools and languages used in game development.
